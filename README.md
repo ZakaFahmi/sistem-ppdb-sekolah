@@ -63,3 +63,5 @@
 
 **EDIT FOTO KEPALA SEKOLAH**
 - Buka `Pengaturan`, lalu pilih `Profil Sekolah`.
+
+![banner](https://github.com/ZakaFahmi/sistem-ppdb-sekolah/blob/main/banner.png)
